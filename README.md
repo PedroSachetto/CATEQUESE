@@ -1,2 +1,2 @@
 # CHAMADA-CATEQUESE
-https://pedrosachetto.github.io/CHAMADA-CATEQUESE/
+https://pedrosachetto.github.io/CATEQUESE/
